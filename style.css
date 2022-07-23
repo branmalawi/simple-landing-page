@@ -17,7 +17,7 @@ body h1, body p {
 }
 
 body h1 {
-  font-size: min(230px,13vmax);
+  font-size: min(200px,13vmax);
   font-family: cursive;
   background-size: cover;
   -webkit-background-clip: text;
