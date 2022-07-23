@@ -83,7 +83,7 @@ function animate() {
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     handleParticle();
     hue++;
-    par.style.color= `hsl(${hue}, 60%, 40%)`
+    par.style.color= `hsl(${hue}, 40%, 60%)`
     requestAnimationFrame(animate)
 }
 
